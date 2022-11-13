@@ -59,7 +59,7 @@
 - 😄 &nbsp;Pronoun **DrakeHellscreams**. 
 - 💡 &nbsp; I am Johnathan Silva 25y/o as of 2022, a **Mobile developer**.
 - 💻 &nbsp;I'm currently(2022 November) working as a **Mobile project manager**  for a company in Bogotá.
-- 🎓&nbsp;I've studied in university from [**UPB**](https://www.upb.edu.co/es/home), Bucaramanga, Colombia(Currently pending grade).
+- 🎓 &nbsp;I've studied in university from [**UPB**](https://www.upb.edu.co/es/home), Bucaramanga, Colombia(Currently pending grade).
 - 🌱 &nbsp;I'm on track for learning more about **React Native, Unit Testing & Animations**.
 - ✍️ &nbsp;In my free time, I listen music, read books, cook & like to go on trips on weekends.
 - 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!.
