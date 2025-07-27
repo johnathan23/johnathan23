@@ -1,76 +1,174 @@
-![version :1.0.0](https://img.shields.io/badge/version-1.0.0-informational) &nbsp;
-![Date update :13.11.2022](https://img.shields.io/badge/Update_date-13/11/2022-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Johnathan23&color=red)&nbsp;
-[![GitHub Johnathan](https://img.shields.io/github/followers/Johnathan23?label=follow&style=social)](https://github.com/Johnathan23)&nbsp;
 
-<h1 align="center">Hi 👋, I'm Johnathan Silva</h1>
-<h3 align="center">A passionate Mobile developer from Colombia</h3>
+<p align="center">
+  <img src="https://johnathan23.github.io/me.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="1000" />
+</p>
 
-### 🛠 &nbsp;Tech Stack
 
- * #### 👅 &nbsp;Languages
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h1 align="center">Hola 👋, soy Johnathan Yesid Silva Parra</h1>
+<h3 align="center">🇨🇴 Mobile Developer | Flutter Expert | Technical Leader</h3>
 
- * #### 📱 &nbsp;Mobile App Development 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-    
- * #### 🧠 &nbsp;AI/ML
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-    
- * #### 🗃️ &nbsp;Database
-    <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-    
- * #### ♾️ &nbsp;Devops
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
- 
- * ##### 🗄️ &nbsp;BaaS
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-    
- * #### 🎨 &nbsp;Software 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-informational" />
+  <img src="https://img.shields.io/badge/Update_date-27/07/2025-informational" />
+  <img src="https://komarev.com/ghpvc/?username=Johnathan23&color=red" />
+  <a href="https://github.com/Johnathan23">
+    <img src="https://img.shields.io/github/followers/Johnathan23?label=follow&style=social" />
+  </a>
+</p>
 
- * #### 👾 &nbsp;Games Engine 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+---
 
- * #### 🖥️ &nbsp;Others
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- 
-### 👨🏻‍💻 &nbsp;About Me
-- 😄 &nbsp;Pronoun **DrakeHellscreams**. 
-- 💡 &nbsp; I am Johnathan Silva 25y/o as of 2022, a **Mobile developer**.
-- 💻 &nbsp;I'm currently(2022 November) working as a **Mobile project manager**  for a company in Bogotá.
-- 🎓 &nbsp;I've studied in university from [**UPB**](https://www.upb.edu.co/es/home), Bucaramanga, Colombia(Currently pending grade).
-- 🌱 &nbsp;I'm on track for learning more about **React Native, Unit Testing & Animations**.
-- ✍️ &nbsp;In my free time, I listen music, read books, cook & like to go on trips on weekends.
-- 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!.
-- ✉️ &nbsp;You can email me. I'll try to respond as soon as possible!.
-<!--- 📄 &nbsp;You can check my [Resume]() for more details about work experience.-->
+## 🧾 Sobre mí
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=johnathan23&" alt="johnathan23" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johnathan23&show_icons=true&locale=en" alt="johnathan23" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnathan23&show_icons=true&locale=en&layout=compact" alt="johnathan23" /></p>
+Desarrollador móvil con más de 6 años de experiencia en la creación de apps nativas y multiplataforma, desempeñando roles técnicos y de liderazgo. Apasionado por las arquitecturas limpias, automatización y entrega continua. Me encanta construir soluciones eficientes que impacten usuarios reales.
 
-### 📫 &nbsp; How to reach me:
-<a href="mailto:johnathanyesid@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/johnathan-yesid-silva-parra-29ba02194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href= "https://stackoverflow.com/users/9128775/johnathan-yesid"><img alt="Stackoverflow" src="https://img.shields.io/badge/stack-overflow-D14836?style=flat&logo=stack&logoColor=white"/></a> &nbsp;
+- 📍 Floridablanca, Colombia  
+- 🎯 Especializado en Flutter, Kotlin, Swift  
+- 🚀 Technical Leader en proyectos de alto impacto  
+- 🧠 Siempre aprendiendo: React Native, Animaciones, UI/UX
+
+---
+
+### 🧰 Tech Stack
+```mermaid
+graph TD
+  A[Tech Stack Principal] --> B[Frontend]
+  A --> C[Backend & Data]
+  A --> D[Mobile]
+  A --> E[DevOps, Tools & Gestión]
+  A --> F[Diseño y UX]
+
+  B --> B1[HTML]
+  B --> B2[CSS]
+  B --> B3[JavaScript - Básico]
+
+  C --> C1[GraphQL - Avanzado]
+  C --> C2[SQL - Avanzado]
+  C --> C3[MongoDB - Intermedio]
+  C --> C4[Firebase - Experto]
+  C --> C5[Supabase - Básico]
+
+  D --> D1[Flutter - Master]
+  D --> D2[Kotlin - Avanzado]
+  D --> D3[Swift - Avanzado]
+  D --> D4[Java - Avanzado]
+  D --> D5[Xamarin Forms - Intermedio]
+  D --> D6[React Native - Básico]
+
+  E --> E1[Git - Experto]
+  E --> E2[GitHub - Avanzado]
+  E --> E3[Bitrise - Avanzado]
+  E --> E4[Docker - Básico]
+  E --> E5[Google Cloud - Experto]
+  E --> E6[AWS y Azure - Intermedio]
+  E --> E7[CI/CD Tools]
+
+  E --> E8[Jira - Avanzado]
+  E --> E9[Asana - Avanzado]
+  E --> E10[Trello - Avanzado]
+  E --> E11[Scrum / Kanban]
+
+  F --> F1[Figma - Master]
+  F --> F2[Adobe XD - Avanzado]
+  F --> F3[Atomic Design - Avanzado]
+
+  %% CLASS ASSIGNMENTS
+  class B1,B2,B3,C5,D6,E4 classBasico;
+  class C3,D5,E6 classIntermedio;
+  class C1,C2,D2,D3,D4,E2,E3,E8,E9,E10,F2,F3 classAvanzado;
+  class C4,D1,E1,E5,F1 classExperto;
+  class E11 classAgile;
+
+  %% COLOR DEFINITIONS
+  classDef classBasico fill:#d0ebff,stroke:#228be6,stroke-width:1px;
+  classDef classIntermedio fill:#fff3bf,stroke:#f08c00,stroke-width:1px;
+  classDef classAvanzado fill:#ffe066,stroke:#fab005,stroke-width:1px;
+  classDef classExperto fill:#d3f9d8,stroke:#2b8a3e,stroke-width:1px;
+  classDef classAgile fill:#e0c3fc,stroke:#9b59b6,stroke-width:1px;
+```
+#### 🖥️ Frontend
+- HTML
+- CSS
+- JavaScript (**Básico**)
+
+#### 🗄️ Backend & Data
+- **GraphQL** (Avanzado), **SQL** (Avanzado)
+- **Firebase** (Experto), **MongoDB** (Intermedio), **Supabase** (Básico)
+
+#### 📱 Mobile
+- **Flutter** (Master)
+- **Kotlin**, **Swift**, **Java** (Avanzado)
+- **Xamarin Forms** (Intermedio), 
+- **React Native** (Básico)
+
+#### ⚙️ DevOps, Tools & Gestión
+- **Git** (Experto), **GitHub** (Avanzado), **Docker** (Básico)
+- **Bitrise** (Avanzado), **Google Cloud** (Experto), **AWS y Azure** (Intermedio)
+- **CI/CD Tools**: Bitrise, Codemagic
+- **Project Management**: Jira, Trello, Asana (Avanzado)
+- **Metodologías**: Scrum / Kanban
+
+#### 🎨 Diseño & UX
+- **Figma** (Master)
+- **Adobe XD**, **Atomic Design** (Avanzado)
+
+### 🧠 AI / ML
+- OpenCV, Google ML Kit, OCR, TensorFlow
+
+### 📦 Stores
+- Google Play (Master), App Store (Experto), App Gallery (Avanzado)
+
+---
+
+## 💼 Experiencia Laboral
+```mermaid
+gantt
+  title 📊 Experiencia Profesional de Johnathan Silva
+  dateFormat  YYYY-MM-DD
+  axisFormat  %b %Y
+
+  section 🏁 Inicios
+  High Developer         :done, hd, 2018-02-01, 2021-06-30
+  Actions Tracker S.L.   :done, ats, 2021-01-14, 2021-05-30
+
+  section 🚀 Crecimiento
+  Venko                 :done, venko, 2021-06-14, 2024-06-24
+  Yalutec               :done, yalutec, 2024-06-24, 2024-07-31
+  Apex Global Mobility  :done, apex, 2024-08-01, 2025-03-31
+
+  section 🧠 Rol actual
+  Frelance :active, frelance, 2025-04-07, 2025-07-26
+
+  section ⭐ Hitos
+  Inicio como freelance :milestone, m1, 2018-02-01, 0d
+  Liderazgo técnico     :milestone, m2, 2021-06-14, 0d
+  Arquitecto Flutter    :milestone, m3, 2024-08-01, 0d
+```
+
+---
+
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnathan23&theme=default&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johnathan23&show_icons=true&locale=en" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnathan23&layout=compact" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<a href="mailto:johnathanyesid@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/johnathan-yesid-silva-parra-29ba02194/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/9128775/johnathan-yesid">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/>
+</a>
+
+---
