@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://johnathan23.github.io/me.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="1000" />
+  <img src="https://johnathan23.github.io/portada.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="1000" />
 </p>
 
 
