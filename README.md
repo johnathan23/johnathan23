@@ -3,7 +3,6 @@
   <img src="https://johnathan23.github.io/portada.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="1000" />
 </p>
 
-
 <h1 align="center">Hola 👋, soy Johnathan Yesid Silva Parra</h1>
 <h3 align="center">🇨🇴 Mobile Developer | Flutter Expert | Technical Leader</h3>
 
@@ -15,6 +14,9 @@
     <img src="https://img.shields.io/github/followers/Johnathan23?label=follow&style=social" />
   </a>
 </p>
+
+<p align="center"> <a href="https://johnathan23.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p>
+
 
 ---
 
