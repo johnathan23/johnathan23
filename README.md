@@ -88,37 +88,68 @@ graph TD
   classDef classExperto fill:#d3f9d8,stroke:#2b8a3e,stroke-width:1px;
   classDef classAgile fill:#e0c3fc,stroke:#9b59b6,stroke-width:1px;
 ```
-#### 🖥️ Frontend
-- HTML
-- CSS
-- JavaScript (**Básico**)
+### 🖥️ Frontend  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)]()  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)]()  
+[![JavaScript (Básico)](https://img.shields.io/badge/JavaScript-Básico-F7DF1E?style=flat&logo=javascript&logoColor=white)]()
 
-#### 🗄️ Backend & Data
-- **GraphQL** (Avanzado), **SQL** (Avanzado)
-- **Firebase** (Experto), **MongoDB** (Intermedio), **Supabase** (Básico)
+---
 
-#### 📱 Mobile
-- **Flutter** (Master)
-- **Kotlin**, **Swift**, **Java** (Avanzado)
-- **Xamarin Forms** (Intermedio), 
-- **React Native** (Básico)
+### 🗄️ Backend & Data  
+[![GraphQL (Avanzado)](https://img.shields.io/badge/GraphQL-Avanzado-E10098?style=flat&logo=graphql&logoColor=white)]()  
+[![SQL (Avanzado)](https://img.shields.io/badge/SQL-Avanzado-4479A1?style=flat&logo=mysql&logoColor=white)]()  
+[![Firebase (Experto)](https://img.shields.io/badge/Firebase-Experto-FFCA28?style=flat&logo=firebase&logoColor=white)]()  
+[![MongoDB (Intermedio)](https://img.shields.io/badge/MongoDB-Intermedio-47A248?style=flat&logo=mongodb&logoColor=white)]()  
+[![Supabase (Básico)](https://img.shields.io/badge/Supabase-Básico-3ECF8E?style=flat&logo=supabase&logoColor=white)]()
 
-#### ⚙️ DevOps, Tools & Gestión
-- **Git** (Experto), **GitHub** (Avanzado), **Docker** (Básico)
-- **Bitrise** (Avanzado), **Google Cloud** (Experto), **AWS y Azure** (Intermedio)
-- **CI/CD Tools**: Bitrise, Codemagic
-- **Project Management**: Jira, Trello, Asana (Avanzado)
-- **Metodologías**: Scrum / Kanban
+---
 
-#### 🎨 Diseño & UX
-- **Figma** (Master)
-- **Adobe XD**, **Atomic Design** (Avanzado)
+### 📱 Mobile  
+[![Flutter (Master)](https://img.shields.io/badge/Flutter-Master-02569B?style=flat&logo=flutter&logoColor=white)]()  
+[![Kotlin (Avanzado)](https://img.shields.io/badge/Kotlin-Avanzado-7F52FF?style=flat&logo=kotlin&logoColor=white)]()  
+[![Swift (Avanzado)](https://img.shields.io/badge/Swift-Avanzado-FA7343?style=flat&logo=swift&logoColor=white)]()  
+[![Java (Avanzado)](https://img.shields.io/badge/Java-Avanzado-007396?style=flat&logo=java&logoColor=white)]()  
+[![Xamarin Forms (Intermedio)](https://img.shields.io/badge/Xamarin_Forms-Intermedio-3498DB?style=flat&logo=xamarinforms&logoColor=white)]()  
+[![React Native (Básico)](https://img.shields.io/badge/React_Native-Básico-61DAFB?style=flat&logo=react&logoColor=white)]()
 
-### 🧠 AI / ML
-- OpenCV, Google ML Kit, OCR, TensorFlow
+---
 
-### 📦 Stores
-- Google Play (Master), App Store (Experto), App Gallery (Avanzado)
+### ⚙️ DevOps, Tools & Gestión  
+[![Git (Experto)](https://img.shields.io/badge/Git-Experto-F05032?style=flat&logo=git&logoColor=white)]()  
+[![GitHub (Avanzado)](https://img.shields.io/badge/GitHub-Avanzado-181717?style=flat&logo=github&logoColor=white)]()  
+[![Docker (Básico)](https://img.shields.io/badge/Docker-Básico-2496ED?style=flat&logo=docker&logoColor=white)]()  
+[![Bitrise (Avanzado)](https://img.shields.io/badge/Bitrise-Avanzado-683D87?style=flat&logo=bitrise&logoColor=white)]()  
+[![Google Cloud (Experto)](https://img.shields.io/badge/Google_Cloud-Experto-4285F4?style=flat&logo=googlecloud&logoColor=white)]()  
+[![AWS (Intermedio)](https://img.shields.io/badge/AWS-Intermedio-232F3E?style=flat&logo=amazonaws&logoColor=white)]()  
+[![Azure (Intermedio)](https://img.shields.io/badge/Azure-Intermedio-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()  
+[![Codemagic](https://img.shields.io/badge/Codemagic-CI%2FCD-2395EC?style=flat&logo=codemagic&logoColor=white)]()  
+[![Jira](https://img.shields.io/badge/Jira-Avanzado-0052CC?style=flat&logo=jira&logoColor=white)]()  
+[![Trello](https://img.shields.io/badge/Trello-Avanzado-0079BF?style=flat&logo=trello&logoColor=white)]()  
+[![Asana](https://img.shields.io/badge/Asana-Avanzado-273347?style=flat&logo=asana&logoColor=white)]()  
+[![Scrum](https://img.shields.io/badge/Scrum-Agile-6DB33F?style=flat)]()  
+[![Kanban](https://img.shields.io/badge/Kanban-Agile-F4A261?style=flat)]()
+
+---
+
+### 🎨 Diseño & UX  
+[![Figma (Master)](https://img.shields.io/badge/Figma-Master-F24E1E?style=flat&logo=figma&logoColor=white)]()  
+[![Adobe XD (Avanzado)](https://img.shields.io/badge/Adobe_XD-Avanzado-FF61F6?style=flat&logo=adobexd&logoColor=white)]()  
+[![Atomic Design](https://img.shields.io/badge/Atomic_Design-Avanzado-4A4A4A?style=flat)]()
+
+---
+
+### 🧠 AI / ML  
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)]()  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()  
+[![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-AI-4285F4?style=flat&logo=google&logoColor=white)]()  
+[![OCR](https://img.shields.io/badge/OCR-Tool-4A90E2?style=flat)]()
+
+---
+
+### 📦 Stores  
+[![Google Play (Master)](https://img.shields.io/badge/Google_Play-Master-3DDC84?style=flat&logo=google-play&logoColor=white)]()  
+[![App Store (Experto)](https://img.shields.io/badge/App_Store-Experto-0D96F6?style=flat&logo=app-store&logoColor=white)]()  
+[![App Gallery (Avanzado)](https://img.shields.io/badge/App_Gallery-Avanzado-C1272D?style=flat)]()
 
 ---
 
