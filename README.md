@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://johnathan23.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p>
+<!-- <p align="center"> <a href="https://johnathan23.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p> -->
 
 
 ---
