@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://johnathan23.github.io/portada.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="1000" />
+  <img src="https://johnathan23.github.io/portada.webp" alt="Banner Mobile Developer" style="max-width:100%; height:auto;" width="700" />
 </p>
 
 <h1 align="center">Hola 👋, soy Johnathan Yesid Silva Parra</h1>
@@ -104,15 +104,6 @@ gantt
   Inicio liderazgo técnico  :milestone, 2021-06-14, 0d
   Arquitecto Flutter        :milestone, 2024-08-01, 0d
 ```
-
----
-
-## 📈 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnathan23&layout=compact" />
-</p>
-
 ---
 
 ## 📫 Contacto
