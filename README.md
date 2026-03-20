@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<!-- <p align="center"> <a href="https://johnathan23.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p> -->
+<p align="center"> <a href="https://johnathan23.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p>
 
 
 ---
@@ -91,13 +91,13 @@ gantt
   Yalutec             :done, 2024-06-24, 2024-07-31
   Apex Global Mobility:done, 2024-08-01, 2025-03-31
   Tres Astronautas    :done, 2025-07-24, 2025-09-10
-  Epam                :active, 2025-09-22, 2025-12-16
+  Epam                :active, 2025-09-22, 2026-03-20
 
   section 💻 Freelance
   Freelance (proyectos paralelos) :active, 2019-04-08, 2025-12-10
 
   section 🧠 Rol actual
-  Sr Flutter Dev :active, 2025-09-22, 2025-12-16
+  Sr Flutter Dev :active, 2024-06-24, 2026-03-20
 
   section ⭐ Hitos
   Inicio como freelance     :milestone, 2018-02-01, 0d
@@ -110,10 +110,6 @@ gantt
 ## 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnathan23&theme=default&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=johnathan23&show_icons=true&locale=en" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnathan23&layout=compact" />
 </p>
 
@@ -124,11 +120,8 @@ gantt
 <a href="mailto:johnathanyesid@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/johnathan-yesid-silva-parra-29ba02194/">
+<a href="https://www.linkedin.com/in/johnathan-yesid-silva-parra/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/9128775/johnathan-yesid">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/>
 </a>
 
 ---
