@@ -7,8 +7,8 @@
 <h3 align="center">🇨🇴 Mobile Developer | Flutter Expert | Technical Leader</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-informational" />
-  <img src="https://img.shields.io/badge/Update_date-16/12/2025-informational" />
+  <img src="https://img.shields.io/badge/version-1.2.0-informational" />
+  <img src="https://img.shields.io/badge/Update_date-20/03/2026-informational" />
   <img src="https://komarev.com/ghpvc/?username=Johnathan23&color=red" />
   <a href="https://github.com/Johnathan23">
     <img src="https://img.shields.io/github/followers/Johnathan23?label=follow&style=social" />
