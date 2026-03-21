@@ -22,7 +22,7 @@
 
 ## 🧾 Sobre mí
 
-Desarrollador móvil con más de 6 años de experiencia en la creación de apps nativas y multiplataforma, desempeñando roles técnicos y de liderazgo. Apasionado por las arquitecturas limpias, automatización y entrega continua. Me encanta construir soluciones eficientes que impacten usuarios reales.
+Desarrollador móvil con más de 7 años de experiencia en la creación de apps nativas y multiplataforma, desempeñando roles técnicos y de liderazgo. Apasionado por las arquitecturas limpias, automatización y entrega continua. Me encanta construir soluciones eficientes que impacten usuarios reales.
 
 - 📍 Floridablanca, Colombia  
 - 🎯 Especializado en Flutter, Kotlin, Swift  
