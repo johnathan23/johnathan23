@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">Hola 👋, soy Johnathan Yesid Silva Parra</h1>
-<h3 align="center">🇨🇴 Mobile Developer | Flutter Expert | Technical Leader</h3>
+<h3 align="center">🇨🇴 Experienced Developer | Flutter Expert | Technical Leader</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.2.0-informational" />
-  <img src="https://img.shields.io/badge/Update_date-20/03/2026-informational" />
+  <img src="https://img.shields.io/badge/version-1.3.0-informational" />
+  <img src="https://img.shields.io/badge/Update_date-16/07/2026-informational" />
   <img src="https://komarev.com/ghpvc/?username=Johnathan23&color=red" />
   <a href="https://github.com/Johnathan23">
     <img src="https://img.shields.io/github/followers/Johnathan23?label=follow&style=social" />
@@ -22,12 +22,12 @@
 
 ## 🧾 Sobre mí
 
-Desarrollador móvil con más de 7 años de experiencia en la creación de apps nativas y multiplataforma, desempeñando roles técnicos y de liderazgo. Apasionado por las arquitecturas limpias, automatización y entrega continua. Me encanta construir soluciones eficientes que impacten usuarios reales.
+Desarrollador Senior con más de 8 años de experiencia especializándose en el desarrollo cross-platform (Flutter) y nativo (Android/iOS). Experto en diseñar arquitecturas escalables (Clean, Hexagonal), automatización de despliegues (CI/CD con AWS/Azure y Bitrise) y soluciones de alta seguridad para el sector financiero y retail. Apasionado por la optimización de rendimiento y la entrega de experiencias de usuario de alto impacto corporativo.
 
-- 📍 Floridablanca, Colombia  
+- 📍 Floridablanca, Santander, Colombia  
 - 🎯 Especializado en Flutter, Kotlin, Swift  
 - 🚀 Technical Leader en proyectos de alto impacto  
-- 🧠 Siempre aprendiendo: React Native, Animaciones, UI/UX
+- 🧠 Siempre aprendiendo: Gestion de proyectos, Generative AI
 
 ---
 
@@ -91,13 +91,13 @@ gantt
   Yalutec             :done, 2024-06-24, 2024-07-31
   Apex Global Mobility:done, 2024-08-01, 2025-03-31
   Tres Astronautas    :done, 2025-07-24, 2025-09-10
-  Epam                :active, 2025-09-22, 2026-03-20
+  Epam                :active, 2025-09-22, 2026-12-31
 
   section 💻 Freelance
   Freelance (proyectos paralelos) :active, 2019-04-08, 2025-12-10
 
   section 🧠 Rol actual
-  Sr Flutter Dev :active, 2024-06-24, 2026-03-20
+  Experienced Developer:active, 2024-06-24, 2026-12-31
 
   section ⭐ Hitos
   Inicio como freelance     :milestone, 2018-02-01, 0d
